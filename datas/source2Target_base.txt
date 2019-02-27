@@ -1,0 +1,4 @@
+s2 seq1
+s3 seq1
+s5 seq4
+s6 seq4
